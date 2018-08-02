@@ -45,33 +45,58 @@ table {
 }
 
 /*************** fim RESET CSS *********************************************/
-------------------------------------------------------------------------------
-/*************** COLORS  **************************************************/
 
+/*************** COLORS  **************************************************/
 :root {
 
 }
 
-
-/*********************** fim COLORS  ***************************************/
-------------------------------------------------------------------------------
-/*************** basic elements  *********************************************/
-
+/*************** main elements  ********************************************/
 body {
   font-family: 'Biryani', sans-serif;
   font-weight: 400;
-  background-color: black;
+  background-color: white;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: 8em;
+	letter-spacing: 0.1em;
+}
+h1:nth-child(2) {
+	line-height: 0.5em;
 }
 
 h2 {
-	font-weight: 900;
-	font-size: 5em;
+	font-size: 3em;
+	font-weight: 200;
 }
 
-/*********************** fim - basic elements  *******************************/
-------------------------------------------------------------------------------
-/*************** CLASSES  ***************************************************/
+h4 {
+	font-weight: 900;
+}
 
+/*************** classes  ********************************************/
 .ctt {
+	width: 50%;
+	background-color: gray;
+	margin: 2%;
+	margin-top: 3%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.title {
 	background-color: white;
+
+}
+
+.call {
+	background-color: white;
+	margin-left: 10%;
+}
+
+.sub_title {
+	background-color: white;
+	margin-top: 5%;
 }
