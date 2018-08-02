@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="224px" height="134px" viewBox="0 0 224 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ruler_my_ws</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV" transform="translate(-1039.000000, -449.000000)" fill-rule="nonzero">
+            <g id="ruler" transform="translate(1039.000000, 449.000000)">
+                <polygon id="Shape" fill="#189E98" points="0.635 17.129 0.635 13.353 223.964 117.319 223.964 121.459 202.325 133.954"></polygon>
+                <polygon id="Shape" fill="#45B6BB" points="22.234 0.85 0.67 13.353 202.32 129.797 223.964 117.319"></polygon>
+                <g id="Group" transform="translate(4.000000, 12.000000)" fill="#2A2F3F">
+                    <polygon id="Shape" points="6.592 0.539 8.853 1.622 2.961 5.002 0.924 3.826"></polygon>
+                    <polygon id="Shape" points="14.251 4.961 16.511 6.044 10.62 9.424 8.583 8.247"></polygon>
+                    <polygon id="Shape" points="21.91 9.383 24.17 10.465 18.279 13.846 16.242 12.669"></polygon>
+                    <polygon id="Shape" points="29.568 13.805 31.829 14.888 25.938 18.268 23.901 17.091"></polygon>
+                    <polygon id="Shape" points="37.227 18.227 39.488 19.31 33.597 22.69 31.56 21.513"></polygon>
+                    <polygon id="Shape" points="44.886 22.649 47.147 23.732 41.256 27.111 39.219 25.935"></polygon>
+                    <polygon id="Shape" points="52.545 27.071 54.806 28.154 48.915 31.534 46.878 30.357"></polygon>
+                    <polygon id="Shape" points="60.204 31.493 62.465 32.575 56.573 35.956 54.537 34.779"></polygon>
+                    <polygon id="Shape" points="67.863 35.915 70.124 36.997 64.232 40.378 62.195 39.201"></polygon>
+                    <polygon id="Shape" points="75.522 40.337 77.783 41.419 71.891 44.8 69.854 43.623"></polygon>
+                    <polygon id="Shape" points="83.181 44.759 85.442 45.841 79.55 49.221 77.513 48.045"></polygon>
+                    <polygon id="Shape" points="90.84 49.181 93.1 50.263 87.209 53.643 85.172 52.467"></polygon>
+                    <polygon id="Shape" points="98.499 53.603 100.759 54.685 94.868 58.065 92.831 56.889"></polygon>
+                    <polygon id="Shape" points="106.157 58.025 108.418 59.107 102.527 62.487 100.49 61.311"></polygon>
+                    <polygon id="Shape" points="113.816 62.447 116.077 63.529 110.186 66.909 108.149 65.733"></polygon>
+                    <polygon id="Shape" points="121.475 66.869 123.736 67.951 117.845 71.331 115.808 70.155"></polygon>
+                    <polygon id="Shape" points="129.134 71.291 131.395 72.373 125.503 75.753 123.467 74.577"></polygon>
+                    <polygon id="Shape" points="136.793 75.713 139.054 76.795 133.162 80.175 131.126 78.999"></polygon>
+                    <polygon id="Shape" points="144.452 80.135 146.713 81.217 140.821 84.597 138.785 83.421"></polygon>
+                    <polygon id="Shape" points="152.111 84.557 154.372 85.639 148.48 89.019 146.443 87.843"></polygon>
+                    <polygon id="Shape" points="159.77 88.979 162.031 90.061 156.139 93.441 154.102 92.265"></polygon>
+                    <polygon id="Shape" points="167.429 93.401 169.689 94.483 163.798 97.863 161.761 96.687"></polygon>
+                    <polygon id="Shape" points="175.088 97.823 177.348 98.905 171.457 102.285 169.42 101.109"></polygon>
+                    <polygon id="Shape" points="182.747 102.245 185.007 103.327 179.116 106.707 177.079 105.531"></polygon>
+                    <polygon id="Shape" points="190.405 106.667 192.666 107.749 186.775 111.129 184.738 109.953"></polygon>
+                    <polygon id="Shape" points="198.064 111.089 200.325 112.171 194.434 115.551 192.397 114.375"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
